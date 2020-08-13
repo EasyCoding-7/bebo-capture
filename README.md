@@ -1,5 +1,15 @@
 # Bebo Game Capture Direct Show Filter Service
 
+## 개인 Comment
+
+* Bebo에서 만든 OBS game caputre dll
+
+### Todo
+
+- [ ] 현재 dll이라서 exe로 바꿔야함.
+
+---
+
 https://github.com/bebo/bebo-capture
 
 This projects provides a Direct Show Capture Filter Service for capturing:
